@@ -7,3 +7,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/1033103081/nvim
+[submodule "fcitx"]
+	path = fcitx
+	url = https://github.com/1033103081/fcitx
