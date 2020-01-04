@@ -10,3 +10,6 @@
 [submodule "fcitx"]
 	path = fcitx
 	url = https://github.com/1033103081/fcitx
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/1033103081/ranger.git
